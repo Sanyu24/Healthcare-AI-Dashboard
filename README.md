@@ -69,7 +69,7 @@ Healthcare-AI-Dashboard/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sanyu24/Clinical-Engineering-AI-Dashboard.git
+git clone https://github.com/Sanyu24/Healthcare-AI-Dashboard.git
 ```
 
 Install the required packages:
