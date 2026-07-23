@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Spyder project files
+.spyproject/
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated reports/outputs (optional)
+output/*
+!output/.gitkeep
